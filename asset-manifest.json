@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a227cba4.css",
-    "main.js": "/static/js/main.6ee0cc18.js",
-    "static/media/nunito-all-400-normal.woff": "/static/media/nunito-all-400-normal.0c07f750f73ac5437580.woff",
-    "static/media/nunito-latin-400-normal.woff2": "/static/media/nunito-latin-400-normal.b8644b6e04ecda1cf98b.woff2",
-    "static/media/nunito-latin-ext-400-normal.woff2": "/static/media/nunito-latin-ext-400-normal.e8049e65c49ce687cff1.woff2",
-    "static/media/nunito-cyrillic-ext-400-normal.woff2": "/static/media/nunito-cyrillic-ext-400-normal.f21ac09511c6fa4f9463.woff2",
-    "static/media/logo.svg": "/static/media/logo.a3bf4d09ba121101955f333a950baa43.svg",
-    "static/media/nunito-cyrillic-400-normal.woff2": "/static/media/nunito-cyrillic-400-normal.166e8e87ae0b6f3deed3.woff2",
-    "static/media/nunito-vietnamese-400-normal.woff2": "/static/media/nunito-vietnamese-400-normal.6a8bc7acd205391fb71a.woff2",
-    "static/media/save.svg": "/static/media/save.1cebf969ae040e6630f7d45c96ee4a31.svg",
-    "static/media/ic-close-input.svg": "/static/media/ic-close-input.f01e03cf609912dcdf78b1a91e354837.svg",
-    "static/media/ic-search.svg": "/static/media/ic-search.296528dfccff6373f75e8f75d02e833a.svg",
-    "index.html": "/index.html",
-    "main.a227cba4.css.map": "/static/css/main.a227cba4.css.map",
-    "main.6ee0cc18.js.map": "/static/js/main.6ee0cc18.js.map"
+    "main.css": "/sb-dogfood-1/static/css/main.05c3833a.css",
+    "main.js": "/sb-dogfood-1/static/js/main.c11a83af.js",
+    "static/media/nunito-all-400-normal.woff": "/sb-dogfood-1/static/media/nunito-all-400-normal.0c07f750f73ac5437580.woff",
+    "static/media/nunito-latin-400-normal.woff2": "/sb-dogfood-1/static/media/nunito-latin-400-normal.b8644b6e04ecda1cf98b.woff2",
+    "static/media/nunito-latin-ext-400-normal.woff2": "/sb-dogfood-1/static/media/nunito-latin-ext-400-normal.e8049e65c49ce687cff1.woff2",
+    "static/media/nunito-cyrillic-ext-400-normal.woff2": "/sb-dogfood-1/static/media/nunito-cyrillic-ext-400-normal.f21ac09511c6fa4f9463.woff2",
+    "static/media/logo.svg": "/sb-dogfood-1/static/media/logo.a3bf4d09ba121101955f333a950baa43.svg",
+    "static/media/nunito-cyrillic-400-normal.woff2": "/sb-dogfood-1/static/media/nunito-cyrillic-400-normal.166e8e87ae0b6f3deed3.woff2",
+    "static/media/nunito-vietnamese-400-normal.woff2": "/sb-dogfood-1/static/media/nunito-vietnamese-400-normal.6a8bc7acd205391fb71a.woff2",
+    "static/media/save.svg": "/sb-dogfood-1/static/media/save.1cebf969ae040e6630f7d45c96ee4a31.svg",
+    "static/media/ic-close-input.svg": "/sb-dogfood-1/static/media/ic-close-input.f01e03cf609912dcdf78b1a91e354837.svg",
+    "static/media/ic-search.svg": "/sb-dogfood-1/static/media/ic-search.296528dfccff6373f75e8f75d02e833a.svg",
+    "index.html": "/sb-dogfood-1/index.html",
+    "main.05c3833a.css.map": "/sb-dogfood-1/static/css/main.05c3833a.css.map",
+    "main.c11a83af.js.map": "/sb-dogfood-1/static/js/main.c11a83af.js.map"
   },
   "entrypoints": [
-    "static/css/main.a227cba4.css",
-    "static/js/main.6ee0cc18.js"
+    "static/css/main.05c3833a.css",
+    "static/js/main.c11a83af.js"
   ]
 }
